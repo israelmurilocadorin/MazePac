@@ -3,7 +3,7 @@
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <div style="text-align: center">
-    <h1>Maze pac runner</h1>
+    <h1>Maze collapse </h1>
 </div> 
 
 ## Resumo do Jogo

@@ -1,6 +1,6 @@
 ##  Maze pac runner
 1. Página Inicial:
-    * **Nome do jogo:** Maze pac runner
+    * **Nome do jogo:** Maze collapse 
     * **Autores:** 
         * Dayan Freitas
         * Israel Cadorin
