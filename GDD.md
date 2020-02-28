@@ -1,4 +1,4 @@
-##  Maze pac runner
+##  Maze collapse
 1. Página Inicial:
     * **Nome do jogo:** Maze collapse 
     * **Autores:** 
@@ -11,29 +11,17 @@
 2. História:  
 Certo um dia o Sarah estava estudando para prova de sua escola. Quando durante várias horas estudando sua mente entrou e collapso se sentindo como se estivesse em um labirinto. Esse labirinto é repleto de desafios que quando completos preencher sua inteligência. 
 
-3. Gameplay: 
-    * Descrição da mecânica do jogo; 
-    * Quais são os desafios encontrados pelo jogador e quais os 
-    métodos usados para superá-los? 
-    * Como o jogador avança no jogo e como os desafios ficam mais 
-    difíceis?
-    * Como o gameplay está relacionado com a história? O jogador 
-deve resolver quebra-cabeças para avançar na história? Ou deve vencer chefões para progredir? 
-    * Como funciona o sistema de recompensas? Pontos, dinheiro, 
-experiência, itens colecionáveis, armas, poderes? Quais os benefícios que o jogador tem com cada um desses itens? 
-    * Qual é a condição de vitória? Salvar o universo? Matar todos os 
-inimigos? Coletar 100 estrelas? Todas as alternativas acima? 
-    * Qual é a condição de derrota? Perder 3 vidas? Ficar sem energia? 
+3. Gameplay:  
+    Mecanismo do jogo é bem simples a ideia é correr dentro de um labirinto contrar o tempo e desafios pra aumentar sua inteligência. O desafio é aumentar o racíocino lógico e promover uma competição, saudável entre os jogadores umas vez que o jogo irá possuir um ranking.
 
-4. Personagens: 
-    * Descrição das características dos personagens principais (nome, 
-idade, tipo...);    
-    * História do passado dos personagens;    * Personalidade dos personagens;
-    * Habilidades características de cada personagem (poderes 
-especiais, golpes especiais, armas...);     
-    * Ilustração visual dos personagens;    * Ações que os personagens pode executar (andar, correr, pular, 
-pulo duplo, escalar, voar, nadar...); 
-
+4. Personagens:  
+    * **Sarah Ramirez**  
+        * Personagem principal
+        * Idade: 14
+        * História: 
+        * Personalidade:
+        * Habilidades: Uma garota muito inteligente, corajosa e com físico atletico propicio a correr
+        
 5. Controles: 
     * Como o jogador controla o personagem principal? 
     * Utilize uma imagem de um joystick ou teclado para ilustrar todos 
