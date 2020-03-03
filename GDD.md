@@ -61,4 +61,6 @@ Certo dia, Sarah estava estudando para uma prova de sua escola durante várias h
     * Em quais momentos eles serão exibidos? 
 
 11. Cronograma: 
-    * Descrição detalhada do cronograma de desenvolvimento; 
+    * Descrição detalhada do cronograma de desenvolvimento;  
+    O conogramda de desenvolvimento deve ser baseado no Kankan do projeto.  
+    [Link do Kanbam](https://github.com/Dayanfreitas/MazePac/projects/1)
