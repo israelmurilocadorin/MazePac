@@ -6,7 +6,7 @@
         * Israel Cadorin
         * Fernando Valle
         * Aramys Antoniazzi         
-        * Kaleb 
+        * Kaleb Zimmermann
     
 2. História:  
 Certo dia, Sarah estava estudando para uma prova de sua escola durante várias horas. Quando em determinado momento, sua mente entrou em colapso e fez com que ela adormecesse. Mas durante seu sono repentino, sua mente não se desligou por completo e criou um labirinto repleto de desafios. Mas a única forma de Sarah despertar e sair do labirinto é resolvendo os enigmas que aparecerem. Será que você poderá ajudar a Sarah? Aperte o play e prove do que é capaz! 
