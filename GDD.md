@@ -6,26 +6,33 @@
         * Israel Cadorin
         * Fernando Valle
         * Aramys Antoniazzi         
-        * Kaleb 
+        * Kaleb Zimmermann
     
 2. História:  
-Certo um dia o Sarah estava estudando para prova de sua escola. Quando durante várias horas estudando sua mente entrou e collapso se sentindo como se estivesse em um labirinto. Esse labirinto é repleto de desafios que quando completos preencher sua inteligência. 
+Certo dia, Sarah estava estudando para uma prova de sua escola durante várias horas. Quando em determinado momento, sua mente entrou em colapso e fez com que ela adormecesse. Mas durante seu sono repentino, sua mente não se desligou por completo e criou um labirinto repleto de desafios. Mas a única forma de Sarah despertar e sair do labirinto é resolvendo os enigmas que aparecerem. Será que você poderá ajudar a Sarah? Aperte o play e prove do que é capaz! 
 
 3. Gameplay:  
-    Mecanismo do jogo é bem simples a ideia é correr dentro de um labirinto contrar o tempo e desafios pra aumentar sua inteligência. O desafio é aumentar o racíocino lógico e promover uma competição, saudável entre os jogadores umas vez que o jogo irá possuir um ranking.
+    O mecanismo do jogo é simples e objetivo. O personagem deverá correr dentro de um labirinto contra o tempo e solucionar desafios para aumentar sua inteligência (xp). O desafio é estimular o raciocínio lógico e promover uma competição saudável entre os jogadores. Vale ressaltar que o jogo possuirá um ranking.
 
 4. Personagens:  
     * **Sarah Ramirez**  
         * Personagem principal
         * Idade: 14
-        * História: 
-        * Personalidade:
-        * Habilidades: Uma garota muito inteligente, corajosa e com físico atletico propicio a correr
+        * História: Uma adolescente filha de uma professora e um programador que sempre apoiaram e estimularam sua educação. Desde os 6 anos, ela lia grandes livros (um de seus favoritos era a Odisseia) e aprendia programação em casa, para que quando crescesse tivesse mais facilidade na escola. Além dos estudos, a grande paixão de Sarah era o atletismo, sua rota de escape das grandes tensões do mundo acadêmico. Ela participou de vários campeonatos ao longo dos anos e ganhou muitas medalhas.
+        * Personalidade: Estudiosa, determinada, gentil, atlética e corajosa.  
+        * Habilidades: Inteligência, raciocínio lógico e agilidade.
         
 5. Controles: 
     * Como o jogador controla o personagem principal? 
+      * O jogador pode andar no eixo x e no eixo y pressionando as teclas direcionais do teclado
+      * O jogador pode correr no eixo x e no eixo y pressionando aa tecla shift
     * Utilize uma imagem de um joystick ou teclado para ilustrar todos 
     os comandos disponíveis:
+    
+<img src = 'http://lh5.ggpht.com/-xlok-SYiLXQ/UXE1sddejaI/AAAAAAAAE74/cBgGFSBQuK8/setas_navegue_thumb%25255B1%25255D.gif?imgmax=800'>
+    
+<img src = 'https://img.freepik.com/fotos-gratis/teclado-de-laptop-preto-close-up_127657-8949.jpg?size=626&ext=jpg'>
+    
 
 6. Câmeras:  
     Jogo tem uma visualização de plataforma, com uma visibilidade limitada. Conforme o *Player* caminha no mapa a câmara também se movimenta
@@ -38,12 +45,12 @@ Certo um dia o Sarah estava estudando para prova de sua escola. Quando durante v
 
 8. Inimigos: 
     * Descrição e ilustração dos inimigos que existem no universo do 
-    jogo; 
-    * Em qual ambiente/fase cada inimigo vai aparecer? 
-    * Como o jogado supera cada inimigo? 
-    * O que o jogador ganha ao derrotar cada inimigo? 
-    * Qual o comportamento e habilidades de cada inimigo? 
-    * Qual o comportamento e habilidades de cada inimigo? 
+    jogo: O inimigo da personagem é a Esfinge que apresenta os enigmas. Na tradição grega, ela tem pernas de leão, asas de um pássaro grande e o rosto de uma mulher. São criaturas mistificadas como traiçoeiras e impiedosas. Obs.: pode ser feita uma releitura da Esfinge adaptando para um personagem robótico, com aspecto mais atual e moderno.
+    * Em qual ambiente/fase cada inimigo vai aparecer: O jogo terá um timer que fará com que a Esfinge apareça em um determinado intervalo de tempo, enquanto o personagem tenta escapar do labirinto. 
+    * Como o jogador supera cada inimigo0?: O jogador derrotará a Esfinge ao solucionar o enigma no intervalo de tempo definido. 
+    * O que o jogador ganha ao derrotar cada inimigo?: A cada enigma solucionado o jogador receberá 100 pontos (se responder em menos de 30 segundos) e 50 pontos (se responder de 30 a 60 segundos). Ao final da partida, os três primeiros colocados receberão um emblema. 
+    * Qual o comportamento e habilidades de cada inimigo?: Aqueles que não podem responder o enigma da Esfinge, sofrem um destino bem típico dos contos e histórias mitológicas, sendo mortos e totalmente devorados por esses monstros vorazes.
+   
 
 9. Interface: 
     * Design e ilustração do HUD (head-up display)
@@ -61,4 +68,6 @@ Certo um dia o Sarah estava estudando para prova de sua escola. Quando durante v
     * Em quais momentos eles serão exibidos? 
 
 11. Cronograma: 
-    * Descrição detalhada do cronograma de desenvolvimento; 
+    * Descrição detalhada do cronograma de desenvolvimento;  
+    O conogramda de desenvolvimento deve ser baseado no Kankan do projeto.  
+    [Link do Kanbam](https://github.com/Dayanfreitas/MazePac/projects/1)
